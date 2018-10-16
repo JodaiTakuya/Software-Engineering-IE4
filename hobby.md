@@ -2,4 +2,4 @@
   原田サトシの鑑賞
   
 すごいサイト >
-[google](https://Takajo-Soft26.github.io/tanakanorepository/)
+[google](https://Takajo-Soft２４.github.io/tanakanorepository/)
