@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: GitHub Pages チュードリアル
+description: 自己紹介　城代拓哉
+github:
+  is_project_page: false
